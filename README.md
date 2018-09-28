@@ -1,4 +1,4 @@
-# goAnyDate.go
+# goAnyDate.go :lemon:
 D:\hai>go build goAnyDate.go
 
 D:\Works\FishStoreLog>goAnyDate.exe -
