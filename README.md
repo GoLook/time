@@ -1,6 +1,14 @@
 # goAnyDate.go
 D:\hai>go build goAnyDate.go
 
+D:\Works\FishStoreLog>goAnyDate.exe -
+
+Parameter Error !
+
+D:\Works\FishStoreLog>goAnyDate.exe +
+
+Parameter Error !
+
 D:\hai>goAnyDate.exe a
 
 Err:验证字符串是否为数字(包含正负数)
