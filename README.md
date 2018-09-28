@@ -1,4 +1,4 @@
-# goAnyDate.go :lemon:
+ :lemon: # goAnyDate.go  :lemon: 
 D:\hai>go build goAnyDate.go
 
 D:\Works\FishStoreLog>goAnyDate.exe -
@@ -41,6 +41,6 @@ D:\hai>goAnyDate.exe 100
 
 20190106
 
-# time
+:alarm_clock: # time
 time
 
