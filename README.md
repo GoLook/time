@@ -1,5 +1,6 @@
 # goAnyDate.go  :lemon: 
-__`获得任何日期`__
+`获得任何日期`
+
 D:\hai>go build goAnyDate.go
 
 D:\Works\FishStoreLog>goAnyDate.exe -
